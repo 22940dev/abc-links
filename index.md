@@ -9,6 +9,6 @@ Hello world!
 - Blog // brain-dump, where I post random half-baked musings on everything from philosophy to pop culture. Nothing technical to be found here. — [https://okrefusal.com/](https://okrefusal.com/)
 
 ## Accounts, social media or otherwise
-- Github, for my open-source work. — [https://github.com/SkullTech](https://github.com/SkullTech)
+- Github, for my open-source work. — [https://github.com/22940dev](https://github.com/22940dev)
 - Goodreads, feel free to add me if you are a reader too. — [https://www.goodreads.com/summitkg](https://www.goodreads.com/summitkg)
 - And lastly, the Twitter. — [https://twitter.com/summitkg](https://twitter.com/summitkg)
